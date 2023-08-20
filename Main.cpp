@@ -10,11 +10,6 @@ int main()
   if (years % 4 == 0)
   {
     cout << "leap year";
-  
-  if (years % 100 == 0)
-    {
-      cout << "Leap year";
-    }
   }
   else
   {
